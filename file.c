@@ -19,4 +19,5 @@ public class GfG {
 		System.out.println(absl);
 	}
 }
-
+hi sandy tinnava
+arey velli tinochu ga nannu tisukurammante tisukostha ga entra nuv mabbu ga
