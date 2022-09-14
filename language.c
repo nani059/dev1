@@ -1,0 +1,2 @@
+ india=hindi
+  usa=english
