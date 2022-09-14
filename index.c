@@ -38,4 +38,6 @@ i		System.out.println("The element is: "
 						+ absqlist.get(2));
 	}
 }
-
+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Print Print the final list
+                System.out.println("Final List: "
+                                                + absqlist);

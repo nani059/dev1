@@ -1,2 +1,3 @@
  india=hindi
-  usa=english
+mexico=spanish 
+ usa=english
